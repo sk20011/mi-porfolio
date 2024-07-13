@@ -1,0 +1,17 @@
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  color: #ffffff;
+  background: #1f1934;
+}
+main {
+    background: #393a47;
+    height: 100vh;
+    height: 100vh;
+}
+@layer utilities {
+  .text-balance {
+    hyphens: auto;
+  }
+}
